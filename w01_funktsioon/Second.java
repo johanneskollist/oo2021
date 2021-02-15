@@ -15,6 +15,6 @@ public class Second {
     }
 
     public static String fullName(String firstName, String lastName){
-        return firstName + " " + lastName + " !";
+        return firstName + " " + lastName + "!";
     }
 }
